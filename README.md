@@ -80,7 +80,7 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## ⛔REMINDER
 
-This project was made for test usage only! DONT USE THESE ENCRYPTED PASSWORD 
+This project was made for test usage only! CODE COMING SOON!
 
 
 
