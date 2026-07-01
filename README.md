@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-PYTHON-yellow">
-  <img src="https://img.shields.io/badge/Language-DISCORD-BLUE">
+  <img src="https://img.shields.io/badge/Language-DISCORD-blue">
   <img src="https://img.shields.io/badge/Language-JS-yellow">
   <img src="https://img.shields.io/badge/Build_With-VisualStudioCode-blue">
 
