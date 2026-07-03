@@ -28,6 +28,12 @@
      yes you are going to build it alone. using py to exe
      pip install auto-py-to-exe
      ```
+
+2. **Write Cred in Commands.py**
+   - ```bash
+     Example:
+     token = ""
+     ```
      
 3. **Invite LINUS in the Server**
    - ```bash
