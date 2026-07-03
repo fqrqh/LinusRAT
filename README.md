@@ -57,9 +57,20 @@
      git clone <RAT>
      cd RAT
      ```
-6. **Commands!**
+## COMMANDS
 
-   ![PssEncoder Demo](https://raw.githubusercontent.com/fqrqh/Remote-Access-Trojan/refs/heads/main/Commands.png)
+| Commands | Description |
+|------|-------------|
+| `!img` | Make a Screenshot of the Target PC |
+| `!write` | Write some text on Target Scree USAGE !Write text |
+| `!website` | Open Website on Target Pc |
+| `!info` | Log Some Info |
+| `!shell` | Execute Shell Commands|
+| `!wallpaper` | Change Target Wallpaper |
+| `!capture` | Real Time Screen Viewer |
+| `!mouse` | Glitch The Mouse |
+| `!volumecrash` | Crash The Volume |
+| `!exit` | Exit |
 
 7. **Demo SOON!**
 
