@@ -31,19 +31,6 @@
 | `SPOIL` | TEXT SPOILER |
 | `TITLE` | WINDOW TITLE TEXT |
 
-| Commands | Description |
-|------|-------------|
-| `!img` | Make a Screenshot of the Target PC |
-| `!write` | Write some text on Target Scree USAGE !Write text |
-| `!website` | Open Website on Target Pc |
-| `!info` | Log Some Info |
-| `!shell` | Execute Shell Commands|
-| `!wallpaper` | Change Target Wallpaper |
-| `!capture` | Real Time Screen Viewer |
-| `!mouse` | Glitch The Mouse |
-| `!volumecrash` | Crash The Volume |
-| `!exit` | Exit |
-
 ## Remote Access Trojan
 
 **simple Remote Access Trojan, Really simple to setup and use via command in your discord server!!**
