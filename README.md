@@ -48,30 +48,23 @@
       pip install r- requirement.txt
      ```
 
-2. **Build the EXE**
+2. **Launch The C++ Launcher**
    - ```bash
-     yes you are going to build it alone. using py to exe
-     pip install auto-py-to-exe
+     Write all the needed Informations.
      ```
 
-3. **Write Cred in Commands.py**
-   - ```bash
-     Example:
-     token = ""
-     ```
-
-4. **Invite LINUS in the Server**
+3. **Invite LINUS in the Server**
    - ```bash
      https://discord.com/oauth2/authorize?client_id=1516481660823011358&permissions=0&integration_type=0&scope=bot
      ```
      
-5. **Startup**
+4. **Ready to Larp**
    - ```bash
-     !startup linus
+     Do what you want
      ```
        
 
-6. **Open Source**
+5. **Open Source**
    - this project is open source - AND EDUCATIONAL PURPOSES ONLY!!
      ```bash
      git clone <RAT>
