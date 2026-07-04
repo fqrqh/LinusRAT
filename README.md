@@ -12,6 +12,21 @@
   <img src="https://img.shields.io/badge/Version-3.5.1-blue?style=for-the-badge" alt="Version 3">
 </p>
 
+
+## 🔴 UPDATES 🔴
+* I Added a C++ Console UI so you can manage the RAT Freely.
+* After the write of the informations the C++ File will automatically launch the rat.
+* CREDS TO WRITE :
+| CREDS |
+|------|-------------|
+| `WEBHOOK` | WEBHOOK OF THE SERVER |
+| `PATH` | PATH FOR THE PICTURE VIDEOS AND MORE TO GO |
+| `PATH2` | ANOTHER PATH |
+| `PREFIX` | PREFIX FOR THE COMMANDS |
+| `SCREENSETTINGS` | SOME SCREEN SETTINGS |
+| `SPOIL` | TEXT SPOILER |
+| `TITLE` | WINDOW TITLE TEXT |
+
 ## Remote Access Trojan
 
 **simple Remote Access Trojan, Really simple to setup and use via command in your discord server!!**
