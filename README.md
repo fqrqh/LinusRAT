@@ -88,7 +88,7 @@
 
 7. **Demo SOON!**
 
-   ![PssEncoder Demo](https://res.cloudinary.com/dxh0c3knq/image/upload/v1783208790/undefined-Imgur1-ezgif.com-gif-to-apng-converter_xefanl.png)
+<img src="https://res.cloudinary.com/dxh0c3knq/image/upload/v1783208790/undefined-Imgur1-ezgif.com-gif-to-apng-converter_xefanl.png" alt="Version 3">
 
 
 
