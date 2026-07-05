@@ -41,7 +41,7 @@
  ** SNEAK **
 
  <p align="center">
-  <img src="https://media.tenor.com/XXXXXXXXXXXX.gif" alt="Rainbow Line" width="80%">
+  <img src="https://media.tenor.com/XXXXXXXXXXXX.gif" alt="Rainbow Line" width="480%">
 </p>
 ## 📌Installation
 
