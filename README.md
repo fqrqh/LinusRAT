@@ -55,9 +55,9 @@
      Write all the needed Informations.
      ```
 
-3. **Invite LINUS in the Server**
+3. **Put your PATH and your BOTTOKEN**
    - ```bash
-     https://discord.com/oauth2/authorize?client_id=1516481660823011358&permissions=0&integration_type=0&scope=bot
+     https://discord.com/developers/applications
      ```
      
 4. **Ready to Larp**
