@@ -90,7 +90,7 @@
 7. **Demo SOON!**
 ![DEMO](https://res.cloudinary.com/dxh0c3knq/image/upload/v1783196673/image_9_r56f9m.png)
 
- ![](https://res.cloudinary.com/dxh0c3knq/image/upload/v1783208790/undefined-Imgur1-ezgif.com-gif-to-apng-converter_xefanl.png)
+
 
 
 
