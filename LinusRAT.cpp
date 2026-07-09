@@ -42,8 +42,9 @@ int main() {
 	std::cout << "Enter the " << MAGENTA << "PREFIX" << RESET << "\n" << "> ";
 	cin >> prefix;
 	file << "prefix = command_prefix= " << quoted(prefix) << "\n";
+//..THIS IS THE SETTINGS..//
 	file << R"(
-bbox = None
+bbox = None             
 layer = False
 allscreens = True
 xdisplay = None
